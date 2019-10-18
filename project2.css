@@ -1,0 +1,22 @@
+.box {
+    background-color: orange;
+    width: 200px;
+    height: 150px;
+    float: left;
+    padding: 10px;
+    line-height: 35px;
+}
+.textcss {
+    color: green;
+    font-family: 'Mansalva', cursive;
+}
+.items {
+    background-color: green;
+    width: 200px;
+    height: 150px;
+    float: right;
+    padding: 5px;
+    line-height: 15px;
+    color: orange;
+    font-family: 'Satisfy', cursive;
+}
